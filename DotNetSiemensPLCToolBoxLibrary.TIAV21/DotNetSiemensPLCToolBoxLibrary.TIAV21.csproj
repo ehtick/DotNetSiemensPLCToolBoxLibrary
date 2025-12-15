@@ -30,24 +30,24 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Siemens.Engineering.Base">
-	    <HintPath>..\externalDlls\siemens\V21\net48\Siemens.Engineering.Base.dll</HintPath>
-	    <Private>False</Private>
-	    <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Siemens\Automation\Portal V21\PublicAPI\V21\net48\Siemens.Engineering.Base.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Siemens.Engineering.Step7">
-	    <HintPath>..\externalDlls\siemens\V21\net48\Siemens.Engineering.Step7.dll</HintPath>
-	    <Private>False</Private>
-	    <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Siemens\Automation\Portal V21\PublicAPI\V21\net48\Siemens.Engineering.Step7.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Siemens.Engineering.WinCC">
-	    <HintPath>..\externalDlls\siemens\V21\net48\Siemens.Engineering.WinCC.dll</HintPath>
-	    <Private>False</Private>
-	    <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Siemens\Automation\Portal V21\PublicAPI\V21\net48\Siemens.Engineering.WinCC.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Siemens.Engineering.WinCC.Extension">
-	    <HintPath>..\externalDlls\siemens\V21\net48\Siemens.Engineering.WinCC.Extension.dll</HintPath>
-	    <Private>False</Private>
-	    <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Siemens\Automation\Portal V21\PublicAPI\V21\net48\Siemens.Engineering.WinCC.Extension.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>

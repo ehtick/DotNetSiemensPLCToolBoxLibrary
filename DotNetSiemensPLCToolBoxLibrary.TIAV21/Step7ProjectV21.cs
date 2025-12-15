@@ -165,7 +165,7 @@ namespace DotNetSiemensPLCToolBoxLibrary.Projectfiles.V21
 
             if (filePathReg != null)
             {
-                string filePath = Path.Combine(filePathReg.GetValue("Path").ToString(), "PublicAPI\\V21");
+                string filePath = Path.Combine(filePathReg.GetValue("Path").ToString(), "PublicAPI\\V21\\net48");
                 var path = Path.Combine(filePath, name);
                 var fullPath = Path.GetFullPath(path);
                 if (File.Exists(fullPath))
